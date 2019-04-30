@@ -14,43 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ScoutHost
-description: >- # this means to ignore newlines until "baseurl:"
-  ScoutHost! Ein Hosting-Angebot für Pfadi und ähnliche Vereine.
-github_username:  ScoutHostCH
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://scouthost.ch" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-
-permalink: none
-
-sass:
-  # loading path from site root
-  # default to _sass
-  sass_dir: node_modules/bootstrap/scss
-
-  # style : nested (default), compact, compressed, expanded
-  #         :nested, :compact, :compressed, :expanded also works
-  # see http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-  # on a typical twitter bootstrap stats are :
-  # nested 138,7kB, compact 129,1kB, expanded 135,9 kB, compressed 122,4 kB
-  style: compressed
-
-defaults:
-   - scope:
-      path: '_posts'
-    values:
-      layout: 'tool'
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - package.json
-  - yarn.lock
