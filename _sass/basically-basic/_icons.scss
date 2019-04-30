@@ -1,0 +1,25 @@
+/* ==========================================================================
+   Icons
+   ========================================================================== */
+
+.icon {
+  display: inline-block;
+  position: relative;
+  top: -0.05em; /* fine-tune alignment */
+  width: 1em;
+  height: 1em;
+  line-height: 1;
+  vertical-align: middle;
+  fill: currentColor;
+
+  $icons: (
+    (email, #000),
+    (github, #181717),
+  );
+
+  @each $icon, $color in $icons {
+    &--#{$icon} {
+      fill: $color;
+    }
+  }
+}

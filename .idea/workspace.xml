@@ -2,21 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24eb9c6b-e740-49d7-8930-d4ad9e70337b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/scouthost.ch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scouthost.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/theme.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/contact-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/disqus_comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/documents-collection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/entry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/google-analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/head-feed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/head-seo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-bitbucket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-bitbucket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-codepen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-codepen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-dribbble.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-dribbble.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-email.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-facebook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-flickr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-flickr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-github.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-gitlab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-gitlab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-googleplus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-googleplus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-instagram.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-lastfm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-lastfm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-linkedin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-pdf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-pinterest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-pinterest.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-soundcloud.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-soundcloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-stackoverflow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-stackoverflow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-stopwatch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-tumblr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-tumblr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-twitter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-xing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-xing.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-youtube.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-youtube.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/masthead.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/page-intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/page-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/posts-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/posts-category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/posts-paginated.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/posts-tag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/read-time.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/search-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/skip-links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scouthost.ch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scouthost.ch.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-29-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-30-welcome-to-jekyll.markdown" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,18 +85,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/404.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/_includes/skip-links.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -50,12 +99,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/robots.txt" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/404.html" />
+        <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/_includes/author" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/assets/javascripts/main.js" />
+        <option value="$PROJECT_DIR$/_data/theme.yml" />
+        <option value="$PROJECT_DIR$/_sass/basically-basic/_base.scss" />
+        <option value="$PROJECT_DIR$/_sass/basically-basic/_entries.scss" />
+        <option value="$PROJECT_DIR$/_sass/basically-basic/_icons.scss" />
+        <option value="$PROJECT_DIR$/_sass/basically-basic.scss" />
+        <option value="$PROJECT_DIR$/_sass/basically-basic/_variables.scss" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -75,7 +134,18 @@
             <path>
               <item name="scouthost.ch" type="b2602c69:ProjectViewProjectNode" />
               <item name="scouthost.ch" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scouthost.ch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scouthost.ch" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scouthost.ch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scouthost.ch" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -88,6 +158,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\scouthost.ch\_includes" />
+      <recent name="C:\xampp\htdocs\scouthost.ch" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,23 +188,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556635848364</updated>
-      <workItem from="1556635851651" duration="485000" />
+      <workItem from="1556635851651" duration="7680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="485000" />
+    <option name="totallyTimeSpent" value="7680000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.46463245" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22483222" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
@@ -148,45 +223,206 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/robots.txt">
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_entries.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="1134">
+          <caret line="198" column="3" selection-start-line="198" selection-start-column="3" selection-end-line="198" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_footer.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
+        <state relative-caret-position="-73" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-30-welcome-to-jekyll.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_functions.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1416" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_icons.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_intro.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-583" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2589" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_navicons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1960" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-566" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_print.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3728" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8318" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_utilities.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_tables.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_sidebar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_syntax-highlighting.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_search.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_responsive-embed.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/stylesheets/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/theme.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/basically-basic/themes/_night.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/categories.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/category.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/collection.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/cv.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/posts.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/tag.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/tags.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/about.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cv/awards.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cv/work.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cv/volunteer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cv/basics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cv/education.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cv/interests.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cv/intro.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cv/languages.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cv/publications.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cv/references.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cv/skills.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/search/algolia-search-scripts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-277" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/search/lunr-search-scripts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1277" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/contact-list.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/author">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/skip-links.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
