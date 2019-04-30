@@ -36,5 +36,5 @@ google_fonts:
 navigation_pages:
   - index.md
   - pricing.md
-  - faq.md
+  - info.md
   - request.md
