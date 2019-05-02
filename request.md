@@ -15,8 +15,14 @@ permalink: /request/
 <p>Melde dich mit Hilfe von diesem Kontaktformular:</p>
 
 <form action="https://docs.google.com/forms/d/19dFnLboLB3v-exCOCJGwQUkt3Cjr6T_51y1AXnN_U-U/formResponse">
-    <label></label>
-    <input />
+    <label for="request-type">Anfragetyp</label>
+    <select name="entry.219969242">
+		<option selected disabled>Anfragetyp wählen</option>
+		<option>Allgemeine Anfrage</option>
+		<option>Technische Frage</option>
+		<option>Bestellung</option>
+		<option>Support</option>
+	</select>
     <br />
     <label for="name" class="bold">Vor- / Nachname</label>
     <input name="entry.1595707891" type="text" id="name" required />
@@ -27,9 +33,7 @@ permalink: /request/
     <br />
     <!-- MULTI-LINE TEXT FIELD -->
     <label for="question" class="bold">Frage</label>
-    <textarea name="entry.1840536700" id="question"></textarea>
-    <!-- SINGLE LINE TEXT FIELD -->
-    <input class="is--hidden" name="entry.79919581" type="text" id="device" value="[Maat] - {{ page.title }} kaufen" required/>
+    <textarea name="entry.1968007443" id="request"></textarea>
     <!-- SUBMIT BUTTON -->
     <input class="button" type="submit" value="Senden">
 </form>

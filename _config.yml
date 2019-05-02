@@ -14,7 +14,6 @@ plugins:
   - jekyll-seo-tag
 
 lang: de-CH
-logo: # path of site logo, e.g. "/assets/images/logo.png"
 
 # Exclude from processing.
 exclude:
