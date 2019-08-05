@@ -4,15 +4,47 @@ title: Kosten
 permalink: /pricing/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hier die Preise für die Angebote.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<table>
+	<tr>
+  		<th>
+			Was (Artikel / Einheit)
+  		</th>
+  		<th>
+			Kosten (CHF / Einheit)
+  		</th>
+	</tr>
+	<tr>
+		<th>
+			Domain
+		</th>
+		<td>
+			1:1 vom Registrar
+		</td>
+	</tr>
+	<tr>
+    	<th>
+      		Webhosting
+    	</th>
+    	<td>
+			0.80 / GB & Monat
+    	</td>
+  	</tr>
+  	<tr>
+    	<th>
+      		Hosted Cloud (Nextcloud)
+    	</th>
+    	<td>
+      		0.05 / GB & Monat
+    	</td>
+  	</tr>
+  	<tr>
+    	<th>
+      		Externes Backup
+    	</th>
+    	<td>
+      		0.70 / GB & Monat
+    	</td>
+  	</tr>
+</table>
